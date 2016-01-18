@@ -1,0 +1,1 @@
+Blosxom is a free-software weblog program (and simple content management system) written in Perl by Rael Dornfest. It uses the pre-existing file system instead of a database management system, unlike most blog software.
